@@ -3,7 +3,7 @@
   <h3>Estudante de Análise e Desenvolvimento de sistemas, com foco em Front-End e Digital Artist.</h3>
 </div> 
 
- <img align="right" alt="Ilustradai-pic" width="250" style="border-radius:50px;" src="https://raw.githubusercontent.com/daiannecordeiro/daiannecordeiro/main/Ilustração_Sem_T%C3%ADtulo%202022-03-21%2002_48_16.png"/>
+ <img align="right" alt="Ilustradai-pic" width="250" style="border-radius:50px;" src="https://github.com/daiannecordeiro/daiannecordeiro/blob/main/Ilustrac%CC%A7a%CC%83o_Sem_Ti%CC%81tulo%202022-03-21%2002_48_16.png?raw=true"/>
 
 ##
 
