@@ -27,10 +27,10 @@
     <img alt="Dai-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   </div>
   <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiannecordeiro&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiannecordeiro&layout=compact&langs_count=7&theme=radical"/>
   <br>
  <a href="https://github.com/daiannecordeiro">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daiannecordeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api?username=daiannecordeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   
   ![Snake animation](https://github.com/daiannecordeiro/daiannecordeiro/blob/output/github-contribution-grid-snake.svg)
 </div>
