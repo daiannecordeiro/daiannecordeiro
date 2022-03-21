@@ -9,10 +9,10 @@
 
 <div align="center" style="display: inline_block"> 
    <img align="left" height="80" src="https://i.imgur.com/x0gKW39.gif"/>
-  <a href="https://www.instagram.com/ilustra.dai/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:daianne.nc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/daiannecordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.behance.net/ilustradai" target="_blank" ><img height="28" src="https://i.imgur.com/jn6Q1E4.jpg" target="_blank"></a> 
+  <a href="https://www.instagram.com/ilustra.dai/" target="_blank"><img height="22" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:daianne.nc@gmail.com"><img height="22" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/daiannecordeiro/" target="_blank"><img height="22" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.behance.net/ilustradai" target="_blank" ><img height="22" src="https://i.imgur.com/jn6Q1E4.jpg" target="_blank"></a> 
  <img align="right" height="80" src="https://i.imgur.com/x0gKW39.gif"/>
 </div>
 
@@ -21,6 +21,7 @@
  <div align="center" style="display: inline_block"><br>
     <img alt="Dai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="Dai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Dai-visual-studio-code" height="33" width="33" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
     <img alt="Dai-Procreate" height="31" width="31" src="https://assets.procreate.art/img/procreate-icon.png" />
     <img alt="Dai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Dai-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
