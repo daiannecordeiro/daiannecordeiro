@@ -1,7 +1,7 @@
 <div align="center">
   <img align="left" height="100" src="https://i.imgur.com/x0gKW39.gif"/>
   <h1>✨ Oi, sou a Dai! ✨</h1>
-  <h3>Estudante de Análise e Desenvolvimento de sistemas, com foco em Front-End, e Digital Artist.</h3>
+  <h3>Web Developer Front-End e Digital Artist.</h3>
 </div> 
 
 ##
@@ -16,20 +16,21 @@
 </div>
 
   <div align="center" style="display: inline_block"><br>
-    <img alt="Dai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="Dai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="Dai-visual-studio-code" height="33" width="33" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
-    <img alt="Dai-React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img alt="Dai-TS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />         
-    <img alt="Dai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Dai-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+    <img alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />         
+    <img alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+    <img alt="Visual Studio Code" height="33" width="33" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>  
+    <img alt="Storybook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />    
+    <img alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   </div>
 
 <div align="center">
   <br>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiannecordeiro&layout=compact&langs_count=7&theme=radical"/>
- <a href="https://github.com/daiannecordeiro">
+ <a href="https://github.com/daiannecordeiro"/>
  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=daiannecordeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  ![Snake animation](https://github.com/daiannecordeiro/daiannecordeiro/blob/output/github-contribution-grid-snake.svg)
 </div>
