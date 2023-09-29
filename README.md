@@ -27,10 +27,3 @@
     <img height="30" alt="Storybook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />    
     <img alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   </div>
-
-<div align="center">
-  <br>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiannecordeiro&layout=compact&langs_count=7&theme=radical"/>
- <a href="https://github.com/daiannecordeiro"/>
- <img height="130em" src="https://github-readme-stats.vercel.app/api?username=daiannecordeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
